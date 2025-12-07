@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "hopper-boost",
+  "version": "${version}",
+  "name": "Hopper Boost",
+  "description": "A simple mod that allows you to configure hopper transfer speed using a gamerule. Use /gamerule hopperSpeed X.X where 1.0 is vanilla speed, 2.0 is double speed, etc.",
+  "authors": [
+    "Liam"
+  ],
+  "contact": {
+    "homepage": "https://github.com/",
+    "sources": "https://github.com/"
+  },
+  "license": "MIT",
+  "icon": "assets/hopper-boost/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.hopperboost.HopperBoost"
+    ]
+  },
+  "mixins": [
+    "hopper-boost.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": ">=1.21.9 <1.21.11",
+    "java": ">=25",
+    "fabric-api": "*"
+  },
+  "suggests": {}
+}

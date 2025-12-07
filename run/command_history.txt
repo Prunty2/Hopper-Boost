@@ -1,0 +1,7 @@
+/gamerule hopperSpeed 2
+/gamerule hopperSpeed 1
+/gamerule hopperSpeed 2
+/gamerule hopperSpeed 200
+/gamerule hopperSpeed 100
+/gamerule hopperSpeed 2
+/gamerule hopperSpeed 0.1
