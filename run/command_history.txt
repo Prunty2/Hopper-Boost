@@ -5,3 +5,13 @@
 /gamerule hopperSpeed 100
 /gamerule hopperSpeed 2
 /gamerule hopperSpeed 0.1
+/gamerule hopperSpeed 10
+/gamerule hopperSpeed 1
+/gamerule hopperSpeed 2
+/gamerule hopperSpeed 100
+/gamerule hopperSpeed 10
+/gamerule hopperSpeed 1
+/gamerule hopperSpeed 10
+/gamerule hopperSpeed 100
+/gamerule hopperSpeed 20
+/gamerule hopperSpeed 2
